@@ -1,7 +1,9 @@
-# ignore log
+# ignore log/
 log/*
 *.log
 
 # ignore wp-config.php
 wp-config.php
 
+# ignore web/
+web/
