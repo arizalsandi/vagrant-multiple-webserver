@@ -1,0 +1,12 @@
+Log created: 2022-04-07T07:15:50.715646000Z
+Process ID:  18679 (0x48f7)
+Parent PID:  1945 (0x799)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: vagrantproject_wordpress_1649313246712_13483
+Arg[3]: --startvm
+Arg[4]: b01f7047-e167-4360-a3c6-232c5ddd2ef9
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
