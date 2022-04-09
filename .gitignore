@@ -6,4 +6,4 @@ log/*
 wp-config.php
 
 # ignore web/
-web/
+web/*
