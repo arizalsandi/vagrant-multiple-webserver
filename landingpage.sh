@@ -1,5 +1,7 @@
+#!/bin/bash
+
 # Install depedencies
-sudo apt-get update
+sudo apt-get update -y
 sudo apt-get install apache2 php -y
 sudo apt-get install git -y
 
